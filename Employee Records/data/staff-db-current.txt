@@ -1,0 +1,8 @@
+Surname         Initials        Job             Hire-Year       Income
+
+Sidorkin        D.S.            Manager         2017            78000
+Strashniy       U.P.            Manager         2019            65000
+Salam           E.M.            Accountant      2015            80000
+Sidorovich      V.A.            Trader          2013            158000
+Strelok         P.Z.            Stalker         2009            165000
+Vist            V.M.            striker         2011            108000

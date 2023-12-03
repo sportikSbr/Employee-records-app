@@ -1,0 +1,17 @@
+        // ----------------
+        // Обработка вывода текущего штата сотрудников
+        for (size_t i = 0; i < worker.size(); i++)
+        {
+            string surnameStr = worker[i].surname;
+
+            if (surnameStr.length() < 14)
+            {
+                surnameStr.append(16 - surnameStr.length(), ' ');
+            }
+            else
+            {
+                surnameStr.erase(13);
+                surnameStr += ".  ";
+            }
+        }
+        // ----------------
